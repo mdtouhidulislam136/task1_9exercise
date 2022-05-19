@@ -1,0 +1,64 @@
+.square{
+    background-color:orange;
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    
+}
+
+.text{
+    text-align: center;
+    padding-top: 180px;
+}
+
+.button{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.button-component{
+    display: flex;
+    justify-content: center;
+}
+
+.counter{
+    text-align: center;
+}
+
+.list-Animal{
+    
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+table, th{
+    border: 1px solid black;
+}
+
+.form{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+.data{
+    margin-top: 30px;
+    display: flex;
+    justify-self: center;
+    padding-left: 30px;
+    border-radius: 30px;
+}
+
+.text-data{
+    padding-left: 50px;
+    width: 50%;
+    box-shadow: 5px 10px 20px ;
+    border-radius: 30px;
+}
+
+.users{
+    text-align: center;
+    background-color:bisque;
+    box-shadow: 30px 30px 30px burlywood;
+    border-radius: 30px;
+}

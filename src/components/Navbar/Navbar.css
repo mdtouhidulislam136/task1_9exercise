@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.nav-link-container{
+    padding-left: 20px;
+}
